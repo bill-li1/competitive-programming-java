@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9e3dac0-5ff9-44dc-9a82-ec4aad768e01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CCC/ccc18j1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="f9e3dac0-5ff9-44dc-9a82-ec4aad768e01" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,27 +10,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#99#100#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CCC/ccc18j1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#80#81#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#103#104#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,9 +38,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.java" />
         <option value="$PROJECT_DIR$/CCC/ccc19j1" />
         <option value="$PROJECT_DIR$/CCC/ccc18j1.java" />
+        <option value="$PROJECT_DIR$/test.java" />
       </list>
     </option>
   </component>
@@ -81,7 +65,13 @@
             <path>
               <item name="competitive-programming" type="b2602c69:ProjectViewProjectNode" />
               <item name="competitive-programming" type="462c0819:PsiDirectoryNode" />
-              <item name="CCC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="competitive-programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="competitive-programming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -91,7 +81,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556903520222" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556914401724" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -190,7 +180,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -215,7 +205,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.27025586" />
+      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.27025586" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -230,17 +220,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CCC/ccc18j1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -248,6 +227,17 @@
           <folding>
             <element signature="e#80#81#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#103#104#0" expanded="true" />
           </folding>
         </state>
       </provider>
