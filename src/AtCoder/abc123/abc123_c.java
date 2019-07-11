@@ -1,4 +1,4 @@
-package AtCoder;
+package src.AtCoder.abc123;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;

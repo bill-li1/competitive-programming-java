@@ -1,4 +1,4 @@
-package AtCoder;
+package src.AtCoder.abc123;
 
 import java.util.Arrays;
 import java.util.Scanner;
