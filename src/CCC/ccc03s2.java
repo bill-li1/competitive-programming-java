@@ -1,4 +1,4 @@
-package CCC;
+package src.CCC;
 
 import java.util.Scanner;
 

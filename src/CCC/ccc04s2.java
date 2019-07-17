@@ -1,4 +1,4 @@
-package CCC;
+package src.CCC;
 
 import java.util.LinkedList;
 import java.util.Scanner;
