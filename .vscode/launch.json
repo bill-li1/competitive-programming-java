@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - abc132_a",
+            "request": "launch",
+            "mainClass": "src.AtCoder.abc132.abc132_a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - abc133_b",
+            "request": "launch",
+            "mainClass": "src.AtCoder.abc133.abc133_b"
+        }
+    ]
+}
