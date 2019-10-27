@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f9e3dac0-5ff9-44dc-9a82-ec4aad768e01" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/competitive-programming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/launch.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,50 +15,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_a.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_b.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_c.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_d.java">
+        <entry file="file://$PROJECT_DIR$/src/IOI/ioi0922.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="748">
+              <caret line="105" column="32" selection-end-line="165" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1007#1014#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,7 +47,6 @@
         <option value="$PROJECT_DIR$/CCC/ccc19j1" />
         <option value="$PROJECT_DIR$/CCC/ccc18j1.java" />
         <option value="$PROJECT_DIR$/test.java" />
-        <option value="$PROJECT_DIR$/main.java" />
         <option value="$PROJECT_DIR$/src/AtCoder/abc133/abc133_a.java" />
         <option value="$PROJECT_DIR$/src/AtCoder/abc133/abc133_b.java" />
         <option value="$PROJECT_DIR$/src/AtCoder/abc133/abc133_c.java" />
@@ -93,13 +60,35 @@
         <option value="$PROJECT_DIR$/src/AtCoder/abc132/abc132_b.java" />
         <option value="$PROJECT_DIR$/src/AtCoder/abc132/abc132_c.java" />
         <option value="$PROJECT_DIR$/src/AtCoder/abc132/abc132_d.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc131/abc131_a.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc131/abc131_b.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc134/abc134_a.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc134/abc134_b.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc134/abc134_c.java" />
+        <option value="$PROJECT_DIR$/src/Other/wc18fs2.java" />
+        <option value="$PROJECT_DIR$/src/bfs19p2.java" />
+        <option value="$PROJECT_DIR$/src/Other/bfs19p2.java" />
+        <option value="$PROJECT_DIR$/src/Other/graph1p3.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/hello.cpp" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc141/abc141_a.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc141/abc141_b.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc135/abc141_a.cpp" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc142/abc142_a.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc142/abc142_b.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc142/abc142_c.java" />
+        <option value="$PROJECT_DIR$/src/AtCoder/abc141/abc141_c.java" />
+        <option value="$PROJECT_DIR$/src/TODO" />
+        <option value="$PROJECT_DIR$/src/CCC/ccc00s4.java" />
+        <option value="$PROJECT_DIR$/main.java" />
+        <option value="$PROJECT_DIR$/src/Other/primefactor.java" />
+        <option value="$PROJECT_DIR$/src/IOI/ioi0922.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="713" />
-    <option name="width" value="1214" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -109,6 +98,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,23 +118,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="competitive-programming-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="competitive-programming-java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="abc132" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563502793101" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571499877454" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -167,13 +150,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.abc131_a">
-    <configuration name="abc131_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.AtCoder.abc131.abc131_a" />
+  <component name="RunManager" selected="Application.ioi0922">
+    <configuration name="abc141_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.AtCoder.abc141.abc141_c" />
       <module name="competitive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.AtCoder.abc131.*" />
+          <option name="PATTERN" value="src.AtCoder.abc141.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abc132_a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.AtCoder.abc132.abc132_a" />
+    <configuration name="ccc00s4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.CCC.ccc00s4" />
       <module name="competitive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.AtCoder.abc132.*" />
+          <option name="PATTERN" value="src.CCC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abc132_b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.AtCoder.abc132.abc132_b" />
+    <configuration name="ioi0922" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.IOI.ioi0922" />
       <module name="competitive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.AtCoder.abc132.*" />
+          <option name="PATTERN" value="src.IOI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,25 +190,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="abc132_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.AtCoder.abc132.abc132_c" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
       <module name="competitive-programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.AtCoder.abc132.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ccc03j1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CCC.ccc03j1" />
+    <configuration name="primefactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Other.primefactor" />
       <module name="competitive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CCC.*" />
+          <option name="PATTERN" value="src.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ccc03j1" />
-      <item itemvalue="Application.abc132_a" />
-      <item itemvalue="Application.abc132_b" />
-      <item itemvalue="Application.abc132_c" />
-      <item itemvalue="Application.abc131_a" />
+      <item itemvalue="Application.abc141_c" />
+      <item itemvalue="Application.ccc00s4" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.primefactor" />
+      <item itemvalue="Application.ioi0922" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.abc131_a" />
-        <item itemvalue="Application.abc132_c" />
-        <item itemvalue="Application.abc132_b" />
-        <item itemvalue="Application.abc132_a" />
-        <item itemvalue="Application.ccc03j1" />
+        <item itemvalue="Application.ioi0922" />
+        <item itemvalue="Application.primefactor" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.ccc00s4" />
+        <item itemvalue="Application.abc141_c" />
       </list>
     </recent_temporary>
   </component>
@@ -264,10 +241,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="953" y="0" width="974" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14818764" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35448578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,7 +260,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3290461" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -292,20 +269,41 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.27025586" />
+      <window_info anchor="right" x="4" y="31" width="1914" height="1061" id="Run" order="8" type="WINDOWED" weight="0.34427083" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35448578" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="4" y="31" width="1914" height="1061" id="Run" order="8" type="WINDOWED" weight="0.34427083" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CCC/ccc19j1" />
     <entry file="file://$PROJECT_DIR$/CCC/ccc18j1.java" />
     <entry file="file://$PROJECT_DIR$/test.java" />
-    <entry file="file://$PROJECT_DIR$/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AtCoder/abc123/abc123_a.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -402,30 +400,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_a.java">
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc131/abc131_b.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+        <state relative-caret-position="31">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_b.java">
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc134/abc134_b.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="82" />
+        <state relative-caret-position="1395">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_c.java">
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc131/abc131_a.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+        <state relative-caret-position="589">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -434,10 +432,208 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_d.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="279">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc134/abc134_c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+            <element signature="e#1607#1608#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc132/abc132_a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/wc18fs2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/bfs19p2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/hello.cpp" />
+    <entry file="file://$PROJECT_DIR$/main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc141/abc141_a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/graph1p3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc135/abc141_a.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc141/abc141_b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc135/abc141_a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc141/abc141_c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1943">
+          <caret line="79" column="5" selection-start-line="24" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CCC/ccc00s4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TODO">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="18" selection-start-column="18" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/primefactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc142/abc142_a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc134/abc134_a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="68" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="68" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc142/abc142_b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AtCoder/abc142/abc142_c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IOI/ioi0922.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="105" column="32" selection-end-line="165" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1007#1014#0" expanded="true" />
           </folding>
         </state>
       </provider>

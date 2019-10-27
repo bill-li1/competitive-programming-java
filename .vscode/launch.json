@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - abc134_a",
+            "request": "launch",
+            "mainClass": "src.AtCoder.abc134.abc134_a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - abc141_a",
+            "request": "launch",
+            "mainClass": "AtCoder.abc135.abc141_a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - main",
+            "request": "launch",
+            "mainClass": "main"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - abc132_a",
             "request": "launch",
             "mainClass": "src.AtCoder.abc132.abc132_a"
