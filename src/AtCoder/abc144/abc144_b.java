@@ -1,44 +1,24 @@
-package src.Other;
+package src.AtCoder.abc144;
 
-import java.util.*;
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-public class graph1p3{
-
-    static int adj[][] = new int[11][11];
-    static int ans = 0, n;
-    static boolean used[] = new boolean[11];
-
-    static void dfs(int node, int min){
-        //find all the cycles that has the minimum node min
-        if (node > min) return;
-        if (used[node]){
-            if (node == min) ans++;
-            return;
-        }
-        used[node] = true;
-        for (int l = 0; l < n; ++l){
-            if (adj[node][l] == 1){
-                dfs(l, min);
+public class abc144_b {
+    public static void main(String[] args) {
+        FastReader sc = new FastReader();
+        int N = sc.nextInt();
+        for (int i=1; i<=9; i++) {
+            for (int j=1; j<=9; j++) {
+                if (i*j==N) {
+                    System.out.println("Yes");
+                    return;
+                }
             }
         }
-        used[node] = false;
+        System.out.println("No");
     }
-
-    public static void main(String[] args){
-        FastReader in = new FastReader();
-        n = in.nextInt();
-        for (int l = 0; l < n; ++l){
-            for (int l2 = 0; l2 < n; ++l2){
-                adj[l][l2] = in.nextInt();
-            }
-        }
-        for (int l = 0; l < n; ++l){
-            dfs(l, l);
-        }
-        System.out.println(ans);
-    }
-
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;

@@ -1,43 +1,13 @@
-package src.Other;
+package src.Templates;
 
-import java.util.*;
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-public class graph1p3{
+public class Fastreader {
 
-    static int adj[][] = new int[11][11];
-    static int ans = 0, n;
-    static boolean used[] = new boolean[11];
-
-    static void dfs(int node, int min){
-        //find all the cycles that has the minimum node min
-        if (node > min) return;
-        if (used[node]){
-            if (node == min) ans++;
-            return;
-        }
-        used[node] = true;
-        for (int l = 0; l < n; ++l){
-            if (adj[node][l] == 1){
-                dfs(l, min);
-            }
-        }
-        used[node] = false;
-    }
-
-    public static void main(String[] args){
-        FastReader in = new FastReader();
-        n = in.nextInt();
-        for (int l = 0; l < n; ++l){
-            for (int l2 = 0; l2 < n; ++l2){
-                adj[l][l2] = in.nextInt();
-            }
-        }
-        for (int l = 0; l < n; ++l){
-            dfs(l, l);
-        }
-        System.out.println(ans);
-    }
+    // copy here
 
     static class FastReader {
         BufferedReader br;
@@ -80,4 +50,7 @@ public class graph1p3{
             return str;
         }
     }
+
+    // end copy here
+
 }
