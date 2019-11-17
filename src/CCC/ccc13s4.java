@@ -22,30 +22,38 @@ public class ccc13s4 {
             int b = sc.nextInt()-1;
             map[a].add(b);
         }
+        boolean[] step = new boolean[N];
         LinkedList<Integer> queue = new LinkedList<>();
         int start = sc.nextInt()-1;
         int finish = sc.nextInt()-1;
         queue.add(start);
+        step[start] = true;
         while(!queue.isEmpty()) {
             int temp = queue.poll();
             for (int i=0; i<map[temp].size(); i++) {
                 if (map[temp].get(i)==finish) {
                     System.out.println("yes");
                     return;
+                } else if (!step[map[temp].get(i)]) {
+                    queue.add(map[temp].get(i));
+                    step[map[temp].get(i)] = true;
                 }
-                queue.add(map[temp].get(i));
             }
         }
+        boolean[] step2 = new boolean[N];
         LinkedList<Integer> queue2 = new LinkedList<>();
         queue2.add(finish);
+        step2[finish] = true;
         while(!queue2.isEmpty()) {
             int temp = queue2.poll();
             for (int i=0; i<map[temp].size(); i++) {
-                if (map[temp].get(i)==start) {
+                if (map[temp].get(i) == start) {
                     System.out.println("no");
                     return;
+                } else if (!step2[map[temp].get(i)]) {
+                    queue2.add(map[temp].get(i));
+                    step2[map[temp].get(i)] = true;
                 }
-                queue2.add(map[temp].get(i));
             }
         }
         System.out.println("unknown");
