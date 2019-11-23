@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9e3dac0-5ff9-44dc-9a82-ec4aad768e01" name="Default Changelist" comment="lots of new things">
+      <change beforePath="$PROJECT_DIR$/.idea/competitive-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-programming-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/competitive-programming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/META-INF/competitive-programming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/src/TODO" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="competitive-programming-java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="942" />
+    <option name="y" value="-20" />
+    <option name="width" value="974" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectId" id="1TyyaBjNCzHmvAy83ggYS9yc4Dt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574446506881" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open CCC" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ioi9821">
+    <configuration name="graph2p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Other.graph2p3" />
+      <module name="competitive-programming-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.Other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ioi9821" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.IOI.ioi9821" />
+      <module name="competitive-programming-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.IOI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.School.chow_computing_contest.Senior.question_1" />
+      <module name="competitive-programming-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.School.chow_computing_contest.Senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.School.chow_computing_contest.Senior.question_2" />
+      <module name="competitive-programming-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.School.chow_computing_contest.Senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.School.chow_computing_contest.Senior.question_3" />
+      <module name="competitive-programming-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.School.chow_computing_contest.Senior.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.graph2p3" />
+      <item itemvalue="Application.question_3" />
+      <item itemvalue="Application.question_1" />
+      <item itemvalue="Application.question_2" />
+      <item itemvalue="Application.ioi9821" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ioi9821" />
+        <item itemvalue="Application.question_2" />
+        <item itemvalue="Application.question_1" />
+        <item itemvalue="Application.question_3" />
+        <item itemvalue="Application.graph2p3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e3dac0-5ff9-44dc-9a82-ec4aad768e01" name="Default Changelist" comment="" />
+      <created>1556902009187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556902009187</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lots of new things">
+      <created>1572189162483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572189162483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lots of new things" />
+    <option name="LAST_COMMIT_MESSAGE" value="lots of new things" />
+  </component>
+</project>
