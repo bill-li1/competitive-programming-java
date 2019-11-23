@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="f9e3dac0-5ff9-44dc-9a82-ec4aad768e01" name="Default Changelist" comment="lots of new things">
-      <change beforePath="$PROJECT_DIR$/.idea/competitive-programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/competitive-programming-java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/competitive-programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/META-INF/competitive-programming.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/src/TODO" beforeDir="false" />
-=======
     <list default="true" id="f9e3dac0-5ff9-44dc-9a82-ec4aad768e01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/CCC/ccc13s4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CCC/ccc13s4.java" afterDir="false" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive-programming/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/competitive-programming/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,17 +11,105 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="FavoritesManager">
-    <favorites_list name="competitive-programming-java" />
-=======
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AtCoder/abc144/abc144_a.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AtCoder/abc144/abc144_b.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1100">
+              <caret line="61" column="5" selection-start-line="21" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="e#1160#1161#0" expanded="true" />
+                <element signature="e#1187#1188#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1271#1272#0" expanded="true" />
+                <element signature="e#1328#1329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AtCoder/abc144/abc144_c.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Templates/Fastreader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Other/graph2p3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Other/graph1p3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CCC/ccc13s4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            <state relative-caret-position="594">
+              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,7 +118,6 @@
         </entry>
       </file>
     </leaf>
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,10 +129,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="942" />
-=======
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -118,28 +180,22 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="943" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
     <option name="y" value="-20" />
     <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
-  <component name="ProjectId" id="1TyyaBjNCzHmvAy83ggYS9yc4Dt" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574446506881" />
-=======
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,18 +221,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573949721129" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573869949172" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-<<<<<<< HEAD
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
-=======
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -195,33 +246,20 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.ioi9821">
-    <configuration name="graph2p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Other.graph2p3" />
-      <module name="competitive-programming-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.Other.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-=======
   <component name="RunManager" selected="Application.ccc13s4">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="competitive-programming" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ioi9821" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.IOI.ioi9821" />
-      <module name="competitive-programming-java" />
+    <configuration name="abc144_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.AtCoder.abc144.abc144_c" />
+      <module name="competitive-programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.IOI.*" />
+          <option name="PATTERN" value="src.AtCoder.abc144.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,21 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="question_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.School.chow_computing_contest.Senior.question_1" />
-      <module name="competitive-programming-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.School.chow_computing_contest.Senior.*" />
-=======
     <configuration name="ccc13s4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.CCC.ccc13s4" />
       <module name="competitive-programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.CCC.*" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,18 +280,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="question_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.School.chow_computing_contest.Senior.question_2" />
-      <module name="competitive-programming-java" />
-=======
     <configuration name="graph1p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Other.graph1p3" />
       <module name="competitive-programming" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.School.chow_computing_contest.Senior.*" />
+          <option name="PATTERN" value="src.Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,21 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< HEAD
-    <configuration name="question_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.School.chow_computing_contest.Senior.question_3" />
-      <module name="competitive-programming-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.School.chow_computing_contest.Senior.*" />
-=======
     <configuration name="graph2p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Other.graph2p3" />
       <module name="competitive-programming" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.Other.*" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,21 +307,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.abc144_c" />
+      <item itemvalue="Application.graph1p3" />
       <item itemvalue="Application.graph2p3" />
-<<<<<<< HEAD
-      <item itemvalue="Application.question_3" />
-      <item itemvalue="Application.question_1" />
-      <item itemvalue="Application.question_2" />
-      <item itemvalue="Application.ioi9821" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ioi9821" />
-        <item itemvalue="Application.question_2" />
-        <item itemvalue="Application.question_1" />
-        <item itemvalue="Application.question_3" />
-        <item itemvalue="Application.graph2p3" />
-=======
       <item itemvalue="Application.ccc13s4" />
     </list>
     <recent_temporary>
@@ -317,7 +320,6 @@
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.graph1p3" />
         <item itemvalue="Application.abc144_c" />
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
       </list>
     </recent_temporary>
   </component>
@@ -349,22 +351,8 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-<<<<<<< HEAD
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-=======
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.13166311" />
@@ -392,7 +380,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" x="0" y="23" width="1920" height="1057" id="Run" order="8" weight="0.3432836" />
+      <window_info anchor="right" x="0" y="23" width="1920" height="1057" id="Run" order="8" weight="0.34375" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
@@ -411,7 +399,7 @@
       <window_info anchor="bottom" id="Terminal" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290461" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3279743" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3281046" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -420,21 +408,14 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info active="true" anchor="right" x="0" y="23" width="1920" height="1057" id="Run" order="8" visible="true" weight="0.3432836" />
+      <window_info anchor="right" x="0" y="23" width="1920" height="1057" id="Run" order="8" weight="0.34381664" />
     </layout-to-restore>
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lots of new things" />
     <MESSAGE value="ccc13s4" />
     <option name="LAST_COMMIT_MESSAGE" value="ccc13s4" />
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-<<<<<<< HEAD
-=======
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CCC/ccc19j1" />
     <entry file="file://$PROJECT_DIR$/CCC/ccc18j1.java" />
@@ -763,7 +744,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AtCoder/abc144/abc144_a.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
+        <state relative-caret-position="286">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -773,7 +754,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AtCoder/abc144/abc144_b.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
+        <state relative-caret-position="1100">
           <caret line="61" column="5" selection-start-line="21" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -791,7 +772,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AtCoder/abc144/abc144_c.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1287">
+        <state relative-caret-position="858">
           <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -801,7 +782,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Templates/Fastreader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
+        <state relative-caret-position="462">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -811,7 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
+        <state relative-caret-position="418">
           <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -821,7 +802,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/graph2p3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
+        <state relative-caret-position="308">
           <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -831,7 +812,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/graph1p3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
+        <state relative-caret-position="418">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -841,8 +822,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CCC/ccc13s4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        <state relative-caret-position="594">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -937,5 +918,4 @@
       </state>
     </states>
   </component>
->>>>>>> 804d67684e4b3300b30b14985225ae997a1f0a9f
 </project>
