@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ce5224-f0c5-4ef3-82cf-6afd4300c4f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/School/chow_computing_contest/Senior/question_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/School/chow_computing_contest/Senior/question_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/School/chow_computing_contest/Senior/question_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="168">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1685#1686#0" expanded="true" />
+                <element signature="e#1740#1741#0" expanded="true" />
+                <element signature="e#1767#1768#0" expanded="true" />
+                <element signature="e#1820#1821#0" expanded="true" />
+                <element signature="e#1851#1852#0" expanded="true" />
+                <element signature="e#1908#1909#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
@@ -136,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Junior/Problem_2.java" />
         <option value="$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Junior/Problem_3.java" />
         <option value="$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Junior/Problem_4.java" />
+        <option value="$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_1.java" />
       </list>
     </option>
   </component>
@@ -195,7 +202,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574736632357" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574737077036" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -466,13 +473,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -491,6 +491,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/School/Markville_Inaugral_Computing_Contest/Senior/Problem_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1685#1686#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+            <element signature="e#1767#1768#0" expanded="true" />
+            <element signature="e#1820#1821#0" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
