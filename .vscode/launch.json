@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Permutations",
+            "request": "launch",
+            "mainClass": "CSES.Permutations",
+            "projectName": "competitive-programming-java_cb0d31af"
+        },
+        {
+            "type": "java",
+            "name": "Launch IncreasingArray",
+            "request": "launch",
+            "mainClass": "CSES.IncreasingArray",
+            "projectName": "competitive-programming-java_cb0d31af"
+        },
+        {
+            "type": "java",
+            "name": "Launch repetitions",
+            "request": "launch",
+            "mainClass": "CSES.repetitions",
+            "projectName": "competitive-programming-java_cb0d31af"
+        },
+        {
+            "type": "java",
+            "name": "Launch missingNumber",
+            "request": "launch",
+            "mainClass": "CSES.missingNumber",
+            "projectName": "competitive-programming-java_cb0d31af"
+        },
+        {
+            "type": "java",
+            "name": "Launch weirdAlgorithm",
+            "request": "launch",
+            "mainClass": "CSES.weirdAlgorithm",
+            "projectName": "competitive-programming-java_cb0d31af"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - abc134_a",
             "request": "launch",
             "mainClass": "src.AtCoder.abc134.abc134_a"
